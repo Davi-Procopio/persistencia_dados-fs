@@ -1,0 +1,15 @@
+[
+  {
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1954,
+    "lido": true,
+    "genero": "Fantasia"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "ano": 1948,
+    "lido": false
+  }
+]
